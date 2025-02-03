@@ -2,3 +2,6 @@ Hiii
 new line
 add new content
 easy commit
+I love Hexlet!
+But sometimes it is difficult
+and one more
